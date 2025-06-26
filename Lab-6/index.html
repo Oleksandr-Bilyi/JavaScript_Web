@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lights Out</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <h1>Гра Lights Out</h1>
+  <div class="info">
+    <span id="moves">Кроки: 0</span>
+    <span id="target">Мінімум: -</span>
+  </div>
+  
+  <div id="grid" class="grid"></div>
+  <div class="buttons">
+    <button id="restart">Рестарт</button>
+    <button id="newGame">Нова гра</button>
+  </div>
+  <div id="winMessage" class="hidden">
+    <div class="win-box">
+      <p>Вітання! Ви виграли!</p>
+      <button onclick="loadLevel(currentLevel.id)">Грати ще раз</button>
+      <button onclick="loadRandomLevel(currentLevel.id)">Інший рівень</button>
+    </div>
+  </div>  
+  <script src="script.js"></script>
+</body>
+</html>
