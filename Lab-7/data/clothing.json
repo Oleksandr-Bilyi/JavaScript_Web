@@ -1,0 +1,11 @@
+{
+  "categoryName": "Clothing",
+  "items": [
+    { "id": 301, "name": "T-Shirt", "shortname": "tshirt", "description": "100% cotton t-shirt.", "price": "$12.99" },
+    { "id": 302, "name": "Jeans", "shortname": "jeans", "description": "Slim fit, blue denim.", "price": "$39.99" },
+    { "id": 303, "name": "Jacket", "shortname": "jacket", "description": "Waterproof outdoor jacket.", "price": "$59.99" },
+    { "id": 304, "name": "Sneakers", "shortname": "sneakers", "description": "Lightweight running shoes.", "price": "$49.00" },
+    { "id": 305, "name": "Hoodie", "shortname": "hoodie", "description": "Warm and cozy hoodie.", "price": "$34.99" },
+    { "id": 306, "name": "Cap", "shortname": "cap", "description": "Adjustable baseball cap.", "price": "$9.99" }
+  ]
+}

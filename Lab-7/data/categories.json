@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "shortname": "electronics",
+    "notes": "Gadgets and devices"
+  },
+  {
+    "id": 2,
+    "name": "Books",
+    "shortname": "books",
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "name": "Clothing",
+    "shortname": "clothing",
+    "notes": "Latest fashion"
+  },
+  {
+    "id": 4,
+    "name": "Services",
+    "shortname": "services",
+    "notes": "Various services"
+  }
+]

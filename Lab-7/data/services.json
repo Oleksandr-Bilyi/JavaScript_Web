@@ -1,0 +1,11 @@
+{
+  "categoryName": "Services",
+  "items": [
+    { "id": 401, "name": "Web Development", "shortname": "webdev", "description": "Custom websites built fast.", "price": "$499.00" },
+    { "id": 402, "name": "SEO Optimization", "shortname": "seo", "description": "Improve your search engine rank.", "price": "$149.00" },
+    { "id": 403, "name": "Graphic Design", "shortname": "design", "description": "Logo and brand design services.", "price": "$199.00" },
+    { "id": 404, "name": "Technical Support", "shortname": "support", "description": "24/7 tech support services.", "price": "$99.00" },
+    { "id": 405, "name": "Digital Marketing", "shortname": "marketing", "description": "Reach your online audience.", "price": "$299.00" },
+    { "id": 406, "name": "App Development", "shortname": "appdev", "description": "iOS & Android apps.", "price": "$899.00" }
+  ]
+}
